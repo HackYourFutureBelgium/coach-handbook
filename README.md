@@ -69,7 +69,7 @@ Module exercises are not strictly required but are recommended.  They provide fu
 
 ## Homework Coaches
 
-As a homework coach, you'll be helping the Module Coaches to give feedback to the students' weekly assignments.    The most important repository for you will be the Class Repository.  This is where you'll find the project board for tracking student progress, and the class app for easy access to all student homeworks.  You can leave more general feedback in their weekly issue on the class repository, more specific feedback can be left as issues tied to lines of code in their homework repos.
+As a homework coach, you'll be helping the Module Coaches to give code reviews for the students' weekly assignments.    The most important repository for you will be the Class Repository.  This is where you'll find the project board for tracking student progress, and the class app for easy access to all student homeworks.  You can leave more general feedback in their weekly issue on the class repository, more specific feedback can be left as issues tied to lines of code in their homework repos.  To learn more about the homework submission process, check out [the homework submission repository](https://github.com/HackYourFutureBelgium/homework-submission).
 
 Do keep an eye out for cheating!  Because of the open-ness of these assignments, it is very easy for students to copy each others' work.  But it's also easy for you to catch them ;)  If you see suspicious similarities just check in with the students. As long as they are aware and have been working together, it's not a problem.
 

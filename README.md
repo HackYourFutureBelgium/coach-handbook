@@ -26,10 +26,10 @@ __Class Wiki__:
 
 
 This is where you will find links to everything you'll need (you can also find a link to this repository in the description of the class Slack channel):
-* Module Repository: This will contain all the module projects & exercises, lesson plans & class resources. More about this below.
-* Homework Submission Boards: You and the students will keep track of their progress through the weekly assignments using issues and a project board in their class repository.
-* Wednesday Check-Ins: Each Wednesday, students are required to leave a progress report in the wiki keeping you up to date on their week.  Reading over these is very helpful to prepare for the next Sunday.
-* The Class History: You'll also find links to all of the previous materials the students have studied, and the coaches they have had.  Please reach out to past coaches!
+* _Module Repository_: This will contain all the module projects & exercises, lesson plans & class resources. More about this below.
+* _Homework Submission Boards_: You and the students will keep track of their progress through the weekly assignments using issues and a project board in their class repository.
+* _Weekly Questions_: In each module's Shared Notes page on the wiki, students will post questions they have over the week.  This is helpful for preparing the next Sunday's review.
+* _The Class History_: You'll also find links to all of the previous materials the students have studied, and the coaches they have had.  Please reach out to past coaches!
 
 __Class Code__:
 

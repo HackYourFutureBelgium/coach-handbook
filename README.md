@@ -1,13 +1,14 @@
 # Coach HandBook
 
 
-Hello coach.  This is (hopefully) everything you need to know to get started with us at HYF.
+Hello coach.  This is (hopefully) everything you need to know to get started with us at HYF. 
 
 Are you a ...
 * [... module coach?](#module-coaches)
 * [... homework coach?](#homework-coaches)
 * [... review coach?](#review-coaches)
 
+> Head on over to [Awesome HYF](https://awesome.hackyourfuture.be/teaching) for teaching tips & tricks.
 
 ---
 

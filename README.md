@@ -8,7 +8,7 @@ Are you a ...
 * [... homework coach?](#homework-coaches)
 * [... review coach?](#review-coaches)
 
-> Head on over to [Awesome HYF](https://awesome.hackyourfuture.be/teaching) for teaching tips & tricks.
+> Head on over to [the Teach GitBook](https://teach.hackyourfuture.be) for teaching tips & tricks.
 
 ---
 

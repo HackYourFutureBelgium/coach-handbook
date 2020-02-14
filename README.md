@@ -8,7 +8,7 @@ Are you a ...
 * [... homework coach?](#homework-coaches)
 * [... review coach?](#review-coaches)
 
-> Head on over to [teachertraining.codeyourfuture.io/](https://teachertraining.codeyourfuture.io/) for teaching tips & tricks.
+> Head on over to [teachertraining.codeyourfuture.io](https://teachertraining.codeyourfuture.io/) for teaching tips & tricks.
 
 ---
 
